@@ -1,0 +1,146 @@
+body{
+    background-image: url('https://i.imgur.com/mSPU63U.jpg');
+}
+#field{
+    margin-left: 30rem;
+    margin-top: 10rem;
+    width: 20rem;
+    height: 5rem;
+}
+#t1{
+    margin-left: 30rem;
+    margin-top: 0; 
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t2{
+    margin-left: -4px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t3{
+    margin-left: -5px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t4{
+    margin-left: -4px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t5{
+    margin-left: 30rem;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t6{
+    margin-left: -4px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t7{
+    margin-left: -5px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t8{
+    margin-left: -4px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t9{
+    margin-left: 30rem;
+    margin-top: 0; 
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t10{
+    margin-left: -4px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t11{
+    margin-left: -5px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t12{
+    margin-left: -4px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t13{
+    margin-left: 30rem;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t14{
+    margin-left: -4px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t15{
+    margin-left: -5px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+#t16{
+    margin-left: -4px;
+    margin-top: 0;
+    background-color: black;
+    color: cornsilk;
+    width: 80px;
+    height: 4rem;
+}
+.abc:hover{
+    border: 5px solid #ffffff;
+    border-radius: 5px;
+}
+.foot{
+    margin-top: 9rem;
+    margin-left: 60rem;
+}
+
